@@ -1,0 +1,10 @@
+Unseal Key: +R5rv/iihKfTsqgYCWjeMkA/dPV8OypTX6KXXpwsNu8=
+Root Token: hvs.4emLTQEdBYFcgV3eHKXWhloP
+
+
+You may need to set the following environment variables:
+
+PowerShell:
+    $env:VAULT_ADDR="http://127.0.0.1:8200"
+cmd.exe:
+    set VAULT_ADDR=http://127.0.0.1:8200
